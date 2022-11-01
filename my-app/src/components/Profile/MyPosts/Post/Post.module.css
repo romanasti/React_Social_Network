@@ -1,10 +1,10 @@
 
 .item {
-    color:greenyellow
+    color:darkblue
 }
 
 .item img {
-    height: 50px;
-    width: 50px;
+    height: 60px;
+    width: 60px;
     border-radius: 30px;
 }
