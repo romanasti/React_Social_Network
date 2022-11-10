@@ -21,7 +21,8 @@ let state = {
             {id: 6, name: 'Alex'},
             {id: 7, name: 'Valera'}
         ]
-    }
+    },
+    sideBar:{}
 }
 
 export default state;

@@ -10,7 +10,6 @@ const Dialogs = (props) => {
 
     return (
         <div className={s.dialogs}>
-            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4mrxN9GAxegxKHi0OsUtQkFLd-HgntopUfDn1MAlDM9fWWxRyjIDx6D4ci44z_6myBc&usqp=CAU' />
             <div className={s.dialogsItems}>
                 { dialogsElements }
             </div>
