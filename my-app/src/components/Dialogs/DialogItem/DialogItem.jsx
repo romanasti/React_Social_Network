@@ -11,6 +11,7 @@ const DialogItem = (props) => {
             <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4mrxN9GAxegxKHi0OsUtQkFLd-HgntopUfDn1MAlDM9fWWxRyjIDx6D4ci44z_6myBc&usqp=CAU' />
             <NavLink to={path} style={setActive}>{props.name}</NavLink>
         </div>
+
     )
 }
 

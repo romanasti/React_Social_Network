@@ -7,6 +7,7 @@ const Message = (props) => {
             {props.message}
         </div>
     )
+
 }
 
 
