@@ -29,5 +29,8 @@
     color: white;
     text-decoration: none;
 }
+.users a {
+    text-decoration: none;
+}
 
 
