@@ -10,8 +10,6 @@ import {
     unfollow
 } from "../../redux/users-reducer";
 import axios from "axios";
-import preloader from "../../assets/images/Spinner-1s-200px.svg";
-import s from "./Users.module.css";
 import Preloader from "../common/Preloader/Preloader";
 
 class UsersContainer extends React.Component {
