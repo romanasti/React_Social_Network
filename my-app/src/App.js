@@ -20,6 +20,7 @@ const App = () => {
                 <div class='app-wrapper-content'>
                     <Routes>
                         <Route exact path='/profile' element={<ProfileContainer />}/>
+                        <Route exact path="/profile/:userId" element={<ProfileContainer />} />
                         <Route exact path='/dialogs' element={<DialogsContainer />}/>
                         <Route exact path='/news' element={<News/>}/>
                         <Route exact path='/music' element={<Music/>}/>
