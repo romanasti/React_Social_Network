@@ -9,3 +9,12 @@
   width: 40px;
   margin: 4px 0px 0px 10px;
 }
+
+.loginBlock {
+  float: right;
+}
+
+.loginBlock a {
+  color: white;
+  text-decoration: none;
+}
